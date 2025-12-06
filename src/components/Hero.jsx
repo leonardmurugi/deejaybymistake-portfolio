@@ -66,7 +66,9 @@ const Hero = () => {
                         {/* Floating Badge */}
                         <div className="absolute -bottom-6 -right-6 bg-white dark:bg-brand-dark p-4 rounded-xl shadow-xl border border-gray-100 dark:border-gray-800 animate-bounce delay-1000">
                             <p className="font-bold text-kenya-black dark:text-kenya-white text-sm">Now Booking</p>
-                            <p className="text-kenya-green text-xs font-bold">Dec 2023</p>
+                            <p className="text-kenya-green text-xs font-bold">
+                                {new Date().toLocaleString('default', { month: 'short', year: 'numeric' })}
+                            </p>
                         </div>
                     </div>
                 </div>
