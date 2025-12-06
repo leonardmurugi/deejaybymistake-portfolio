@@ -3,7 +3,7 @@ import djImage from '../assets/dj-profile.png'; // Updated to PNGd to PNG
 
 const Hero = () => {
     return (
-        <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
+        <section id="home" className="relative min-h-screen pt-20 flex items-center justify-center overflow-hidden">
             {/* Dynamic Background */}
             <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 mesh-gradient opacity-20 dark:opacity-30"></div>
