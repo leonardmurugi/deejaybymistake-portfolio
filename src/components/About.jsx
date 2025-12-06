@@ -58,7 +58,7 @@ const About = () => {
                                 </div>
                                 <div className="border-l-4 border-kenya-green pl-4">
                                     <h4 className="font-bold text-lg text-kenya-black dark:text-kenya-white">Daystar University</h4>
-                                    <p className="text-kenya-green font-medium">Bachelor of Arts, 2015 - Present</p>
+                                    <p className="text-kenya-green font-medium">Bachelor of Arts, 2015 - 2021</p>
                                     <p className="text-gray-500 dark:text-gray-400">Mass Communication</p>
                                 </div>
                             </div>

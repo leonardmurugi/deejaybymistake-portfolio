@@ -30,7 +30,7 @@ const Hero = () => {
                     <div className="mt-10 flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
                         <a
                             href="#portfolio"
-                            className="group relative px-8 py-4 bg-kenya-red text-white text-lg font-bold rounded-xl overflow-hidden shadow-xl shadow-kenya-red/20 hover:shadow-kenya-red/40 transition-all hover:-translate-y-1"
+                            className="group relative px-8 py-4 bg-kenya-red text-white text-lg font-bold rounded-xl overflow-hidden shadow-xl shadow-kenya-red/20 hover:shadow-kenya-red/40 transition-all hover:-translate-y-1 inline-flex items-center justify-center"
                         >
                             <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700"></div>
                             <span className="flex items-center gap-2">
