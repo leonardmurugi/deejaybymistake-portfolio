@@ -29,7 +29,11 @@ const Footer = () => {
                             </li>
                             <li className="flex items-center">
                                 <Phone size={20} className="mr-3 text-kenya-green" />
-                                <a href="tel:+254717225285" className="hover:text-white transition-colors">0717225285</a>
+                                <a href="tel:+254717225285" className="hover:text-white transition-colors mr-2">0717225285</a>
+                                <span className="text-gray-600 mx-1">|</span>
+                                <a href="https://wa.me/254717225285" target="_blank" rel="noopener noreferrer" className="text-kenya-green hover:text-white transition-colors text-sm font-semibold">
+                                    WhatsApp
+                                </a>
                             </li>
                         </ul>
 
