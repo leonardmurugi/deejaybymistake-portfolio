@@ -210,11 +210,7 @@ const Portfolio = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-12">
                     <div>
-                        <div className="flex items-center gap-3 mb-2">
-                            {/* Hearthis.at Logo - Using a simple SVG representation or the official color placeholder */}
-                            <img src="https://hearthis.at/images/meta/hearthis_at-logo-w500.png" alt="hearthis.at logo" className="h-8 w-auto mix-blend-multiply dark:mix-blend-normal dark:brightness-200" />
-                            <h2 className="text-3xl md:text-4xl font-bold text-kenya-black dark:text-kenya-white">Latest Mixes</h2>
-                        </div>
+                        <h2 className="text-3xl md:text-4xl font-bold text-kenya-black dark:text-kenya-white mb-2">Latest Mixes</h2>
                         <div className="w-20 h-1 bg-kenya-red rounded-full"></div>
                     </div>
                     <a href="https://hearthis.at/djbymistake/" target="_blank" rel="noopener noreferrer" className="hidden md:inline-flex items-center gap-2 text-kenya-green font-semibold hover:underline">
