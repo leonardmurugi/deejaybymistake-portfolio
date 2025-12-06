@@ -65,8 +65,8 @@ const About = () => {
                         </div>
 
                         <div className="bg-kenya-black/5 dark:bg-white/5 p-6 rounded-xl border-l-4 border-kenya-red">
-                            <p className="italic text-gray-700 dark:text-gray-200 font-medium text-lg">
-                                "I discovered my love for music and entertainment at a relatively young age (around 13 years of age), when I began making audio compilation CDs and selling them to friends and family."
+                            <p className="italic font-bold text-gray-700 dark:text-gray-200 text-lg">
+                                "I discovered my love for music at age 13, making compilation CDs for friends and family. The amazing feedback pushed me to headline successful gigs around the city as a club, corporate, festival, and radio DJ."
                             </p>
                         </div>
                     </div>

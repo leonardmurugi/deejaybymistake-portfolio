@@ -10,9 +10,9 @@ const Portfolio = () => {
     return (
         <section id="portfolio" className="py-20 bg-brand-light dark:bg-brand-dark">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div className="flex flex-col md:flex-row justify-between items-end mb-12">
+                <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-12">
                     <div>
-                        <h2 className="text-3xl md:text-4xl font-bold text-kenya-black dark:text-kenya-white mb-2">Latest Mixes</h2>
+                        <h2 className="text-3xl md:text-4xl font-bold text-kenya-black dark:text-kenya-white mb-2">Latest Mixes from hearthis.at</h2>
                         <div className="w-20 h-1 bg-kenya-red rounded-full"></div>
                     </div>
                     <a href="#" className="hidden md:inline-block text-kenya-green font-semibold hover:underline">View All on Soundcloud</a>
