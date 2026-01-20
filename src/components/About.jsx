@@ -23,9 +23,8 @@ const About = () => {
                             As a diverse and goal-oriented individual, I prefer to work with companies and individuals that have a rich culture of building and developing each other.
                             My passion is providing a genuine service to help others with the highest level of excellence.
                         </p>
-                        <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                            I discovered my love for music at age 13, making compilation CDs for friends and family. The amazing feedback pushed me to headline successful gigs around the city
-                            as a club, corporate, festival, and radio DJ.
+                        <p className="text-gray-600 dark:text-gray-300 leading-relaxed text-lg">
+                            I am an immersive sound architect and experienced curator, adept at transforming atmospheres through carefully selected music and precision audio engineering. My ability to instinctively connect with an audience and dynamically adapt to their energy ensures every event is a uniquely engaging and vibrant occasion, supported by meticulous planning and technical mastery.
                         </p>
 
                         <div className="pt-6">
